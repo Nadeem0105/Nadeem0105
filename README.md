@@ -47,13 +47,6 @@ I am a Computer Science student passionate about understanding computing from co
 
 ---
 
-### 🏗️ Featured Project: **Exam Alchemy**
-A smart **question paper generator** that creates balanced and structured exam papers using a categorized question bank.
-
-🔗 *Repo Link:* (Add once uploaded)
-
----
-
 ### 📫 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
