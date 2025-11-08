@@ -34,8 +34,8 @@ I am a Computer Science student passionate about understanding computing from co
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Nadeem0105&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadeem0105&theme=tokyonight" />
 </p>
 
 ---
