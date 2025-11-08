@@ -42,7 +42,7 @@ I am a Computer Science student passionate about understanding computing from co
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeem0105&layout=compact&theme=tokyonight" />
 </p>
 
 ---
