@@ -223,11 +223,11 @@ Product authentication platform to verify genuine products, focused on anti-coun
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nadeem0105&show_icons=true&hide_border=true&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&bg_color=0D1117)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Nadeem0105&show_icons=true&hide_border=true&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9&bg_color=0D1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Nadeem0105&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeem0105&layout=compact&hide_border=true&title_color=FFB000&text_color=C9D1D9&bg_color=0D1117)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Nadeem0105&layout=compact&hide_border=true&title_color=FFB000&text_color=C9D1D9&bg_color=0D1117)
 
 </div>
 
