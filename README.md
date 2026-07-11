@@ -233,11 +233,11 @@ Product authentication platform to verify genuine products, focused on anti-coun
 
 ---
 
-## `$ ./trophies --render`
+## `$ ./contribution-heatmap --render`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nadeem0105&theme=gruvbox&no-frame=true&column=7&margin-w=15&margin-h=15)
+![Contribution Heatmap](https://ghchart.rshah.org/FFB000/Nadeem0105)
 
 </div>
 
